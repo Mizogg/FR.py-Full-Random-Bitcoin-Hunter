@@ -29,5 +29,7 @@ Winner.txt will be saved to same location as python file.
 Edit line 40 and 41 to pick your range to scan.
 ![image](https://user-images.githubusercontent.com/88630056/128738910-e38b1e3e-0de0-42ee-994d-6aea8d83c325.png)
 
+FR(old) Has Input to start range x and y.
+
 # Good Luck and Happy Hunting. Made by mizogg.co.uk
 Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD
